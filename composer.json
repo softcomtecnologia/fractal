@@ -1,5 +1,5 @@
 {
-    "name": "league/fractal",
+    "name": "softcomtecnologia/fractal",
     "description": "Handle the output of complex data structures ready for API output.",
     "keywords": [
         "league",
@@ -39,12 +39,12 @@
     },
     "autoload": {
         "psr-4": {
-            "League\\Fractal\\": "src"
+            "Softcomtecnologia\\Fractal\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "League\\Fractal\\Test\\": "test"
+            "Softcomtecnologia\\Fractal\\Test\\": "test"
         }
     },
     "extra": {
