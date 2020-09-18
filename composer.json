@@ -39,12 +39,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Softcomtecnologia\\Fractal\\": "src"
+            "League\\Fractal\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Softcomtecnologia\\Fractal\\Test\\": "test"
+            "League\\Fractal\\Test\\": "test"
         }
     },
     "extra": {
