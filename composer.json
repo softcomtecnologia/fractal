@@ -21,12 +21,12 @@
         "sort-packages": true
     },
     "require": {
-        "php": ">=8.1"
+        "php": ">=8.4"
     },
     "require-dev": {
         "doctrine/orm": "^3.5",
-        "illuminate/contracts": "^10.0",
-        "mockery/mockery": "~1.6",
+        "illuminate/contracts": "^12.0",
+        "mockery/mockery": "^1.6",
         "pagerfanta/pagerfanta": "^4.7",
         "phpunit/phpunit": "^4.8.35 || ^7.5",
         "squizlabs/php_codesniffer": "~1.5|~2.0|~3.4"
